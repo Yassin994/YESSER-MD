@@ -10,10 +10,10 @@ zokou({ nomCom: "hack", categorie: "mods", reaction:"🕷️", active: isHackCom
   // hack
     const { repondre, arg, ms } = commandeOptions;
 
-    await zk.sendMessage(dest, "```lucky_md Injecting malware```");
+    await zk.sendMessage(dest, "```yesser_md Injecting malware```");
     await sleep(30000);
 
-    await zk.sendMessage(dest, "```lucky into device \n 0%```");
+    await zk.sendMessage(dest, "```yesser into device \n 0%```");
     await sleep(30000);
 
     await zk.sendMessage(dest, "```transfering photos \n █ 10%```");
