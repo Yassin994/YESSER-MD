@@ -9,31 +9,31 @@ const conf = require("../set");
 zokou({
   'nomCom': "agents",
   'categorie': 'General',
-  'reaction': "🤙"
+  'reaction': "🌛"
 }, async (_0x1b06c5, _0x54bb8b, _0x2358bf) => {
   const {
     ms: _0x2aecc0,
     mybotpic: _0x43a6e2
   } = _0x2358bf;
   const _0x21b56d = [{
-    'nom': "Belta from Kenya",
-    'nom': "FrediTech from Tanzania 🇹🇿",
+    'nom': "YESSER from Tanzania",
+    'nom': "yesser Tech from Tanzania 🇹🇿",
     'numero': "load..."
   }, {
-    'nom': "Belta from Kenya 🇰🇪",
-    'numero': "254114141192"
+    'nom': "YESSER from TANZANIA ",
+    'numero': "255621995482"
   }, {
-    'nom': "Ibrahim Adams Kenya 🇰🇪",
-    'numero': "254710772666"
+    'nom': "your enemy",
+    'numero': "255716662453"
   }, {
-    'nom': "Baraka Bega From Tanzania 🇹🇿",
-    'numero': "255762190568"
+    'nom': " yesser boy",
+    'numero': "255685957360"
   }, {
     'nom': "Boniphace from Tanzania 🇹🇿",
     'numero': "255716661569"
   }, {
-    'nom': "Joel it🕷️ From Tanzania 🇹🇿",
-    'numero': "255714595078"
+    'nom': "🏹 yesser",
+    'numero': "255621995482"
   }, {
     'nom': "Dullah From Tanzania 🇹🇿",
     'numero': "255716945971"
@@ -56,7 +56,7 @@ zokou({
     'nom': "🤕",
     'numero': "load...."
   }];
-  let _0x2d5c7e = "Hello👋  *I'm Lucky Md Wa Bot* \nThe Following Numbers Are For  *LUCKY_MD* Agents, \nYou Can Ask Them Anything Regarding Lucky Bot \nFollow Our Channel For More Tech :https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f \n*KEEP USING LUCKY MD*:\n\n";
+  let _0x2d5c7e = "Hello👋  *I'm YESSER Md Wa Bot* \nThe Following Numbers Are For  *YESSER_MD* Agents, \nYou Can Ask Them Anything Regarding yesser Bot \nFollow Our Channel For More Tech :https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G \n*KEEP USING YESSER MD*:\n\n";
   for (const _0x14eeec of _0x21b56d) {
     _0x2d5c7e += "----------------\n(●) " + _0x14eeec.nom + " : https://wa.me/" + _0x14eeec.numero + "\n";
   }
