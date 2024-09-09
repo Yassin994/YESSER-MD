@@ -66,7 +66,7 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 
-┏❏ ⌜  𝕃𝕌ℂ𝕂𝕐 𝕄𝔻 𝕍7 ⌟ ❐
+┏❏ ⌜  𝕐𝔼𝕊𝕊𝔼ℝ 𝕄𝔻  ⌟ ❐
 ┃ ⿻𝕄𝕠𝕕𝕖: ${mode}
 ┃ ⿻𝕌𝕤𝕖𝕣 : ${s.OWNER_NAME}
 ┃ ⿻𝕃𝕚𝕓𝕣𝕒𝕣𝕪 : Baileys
@@ -83,7 +83,7 @@ const date = moment().format('DD/MM/YYYY');
 
 let menuMsg = `
 > ┏━━━━━━━━━┓
-> ┣➠Lucky cmds
+> ┣➠YESSER cmds
 > ┗━━━━━━━━━┛\n
 
 
@@ -113,11 +113,11 @@ let menuMsg = `
 
 
 > ┏━━━━━━━━━━━━━━┓
-> ┣➠Lucky md V7 2024
+> ┣➠YESSER md 😎 2024
 > ┣➠Enjoy life  
 > ┗┳━━━━━━━━━━━━┳┛
 > ┏┻━━━━━━━━━━━━┻┓
-> ┃➠powered by Fredie Tech
+> ┃➠powered by YESSER Tech
 > ┗━━━━━━━━━━━━━━┛\n
 
 
