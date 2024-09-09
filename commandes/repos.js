@@ -3,8 +3,8 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 
 zokou({ nomCom: "repo", catégorie:"Général", reaction: "⚙️", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
-  const githubRepo = 'https://api.github.com/repos/Fred1e/LUCKY_MD';
-  const img = 'https://telegra.ph/file/926c7a8ad7ff624c144b7.jpg';
+  const githubRepo = 'https://api.github.com/repos/yassin994/YESSER_MD';
+  const img = 'https://telegra.ph/file/37882de26f9ffc60043ef.jpg';
 
   try {
     const response = await fetch(githubRepo);
@@ -22,7 +22,7 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "⚙️", nomFichier: 
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
       const gitdata = `*hellow whatsaap user
-this is* *LUCKY_MD V7.*\n support our channel *by*,  https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f
+this is* *YESSER_MD .*\n support our channel *by*,  https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f
 
 ╭─────────────────────➳
 │╭────────────────────➳
@@ -31,9 +31,9 @@ this is* *LUCKY_MD V7.*\n support our channel *by*,  https://whatsapp.com/channe
 ││ 🧧 *FORKS:* ${repoInfo.forks}
 ││ 📅 *RELEASE DATE:* ${releaseDate}
 ││🕐 *UPDATE ON:* ${repoInfo.lastUpdate}
-││ 👨‍💻 *OWNER:* *Fredie tech*
-││ 💞 *THEME:* *FREDI*
-││ 🥰 *ENJOY TO USE LUCKY MD V7*
+││ 👨‍💻 *OWNER:* *YESSER tech*
+││ 💞 *THEME:* *YESSER BOY*
+││ 🥰 *ENJOY TO USE YESSER MD *
 │╰────────────────────➳
 │╭──────────────────❍ 
 ││  ╭───────────────➳
