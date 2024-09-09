@@ -2,7 +2,7 @@ const { zokou } = require("../framework/zokou");
 const {getAllSudoNumbers,isSudoTableNotEmpty} = require("../bdd/sudo")
 const conf = require("../set");
 
-zokou({ nomCom: "owner", categorie: "General", reaction: "🇹🇿" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "owner", categorie: "General", reaction: "🏹" }, async (dest, zk, commandeOptions) => {
     const { ms , mybotpic } = commandeOptions;
     
   const thsudo = await isSudoTableNotEmpty()
@@ -10,7 +10,7 @@ zokou({ nomCom: "owner", categorie: "General", reaction: "🇹🇿" }, async (de
   if (thsudo) {
      let msg = `*My Super-User*\n
      *Owner Number\n* :
-- 🌟 @${conf.NUMERO_OWNER}
+- 😎 @${conf.NUMERO_OWNER}
 
 ------ *other sudos* -----\n`
      
@@ -51,16 +51,16 @@ zokou({ nomCom: "owner", categorie: "General", reaction: "🇹🇿" }, async (de
   }
 });
 
-zokou({ nomCom: "dev", categorie: "General", reaction: "🫶" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "dev", categorie: "General", reaction: "💞" }, async (dest, zk, commandeOptions) => {
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "fredie🍃tech", numero: "255752593977" },
-      { nom: "King Coder", numero: "255620814108" },
+      { nom: "yesser😎boy", numero: "255621995482" },
+      { nom: "yesser teach", numero: "255685957360" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "Hello👋 Friend Welcome🤝 To Lucky🍀 Md V5! here is the dev :\n\n";
+    let message = "Hello👋 yesser Welcome🤝 To yesser😎 Md ! here is the dev :\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
@@ -95,20 +95,20 @@ zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOpti
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
   repondre("look on pm sir ")
-  await zk.sendMessage(auteurMessage,{text :`https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f`},{quoted :ms})
+  await zsendMessage(auteurMessage,{text :`https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G`},{quoted :ms})
 
 })
 
-zokou({ nomCom: "developer", categorie: "General", reaction: "🦁" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "developer", categorie: "General", reaction: "🤠" }, async (dest, zk, commandeOptions) => {
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "fredie🍃tech", numero: "255686745716" },
-      { nom: "King Coder", numero: "255620814108" },
+      { nom: "YESSER😎BOY", numero: "255621995482" },
+      { nom: "yesser teach", numero: "255685957360" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "👋 *Welcome to lucky md v5* here is the developer numbers:\n\n";
+    let message = "👋 *Welcome to yesser md * here is the developer numbers:\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
