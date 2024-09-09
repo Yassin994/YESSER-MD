@@ -16,7 +16,7 @@ zokou(
   {
     nomCom: 'ping',
     categorie: 'General',
-    reaction: '🚀',
+    reaction: '🏃',
     alias: ['p']
   },
 
