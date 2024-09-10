@@ -3,7 +3,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 
 zokou({ nomCom: "repo", catégorie:"Général", reaction: "⚙️", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
-  const githubRepo = 'https://api.github.com/repos/yassin994/YESSER_MD';
+  const githubRepo = 'https://api.github.com/repos/yassin994/YESSER-MD';
   const img = 'https://telegra.ph/file/37882de26f9ffc60043ef.jpg';
 
   try {
@@ -22,7 +22,7 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "⚙️", nomFichier: 
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
       const gitdata = `*hellow whatsaap user
-this is* *YESSER_MD .*\n support our channel *by*,  https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f
+this is* *YESSER_MD .*\n support our channel *by*,  https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G
 
 ╭─────────────────────➳
 │╭────────────────────➳
@@ -37,7 +37,7 @@ this is* *YESSER_MD .*\n support our channel *by*,  https://whatsapp.com/channel
 │╰────────────────────➳
 │╭──────────────────❍ 
 ││  ╭───────────────➳
-││  │ _*Made With Fredie Tech*_
+││  │ _*Made With yesser Tech*_
 ││  ╰───────────────➳
 │╰──────────────────❍ 
 ╰─────────────────────➳ 
