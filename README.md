@@ -5,7 +5,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&random=false&width=435&lines=+MY+NAME+ IS+YESSER+MD+BOT+CREATED+BY+YESSER+BOY+SON+Fork+Me+Please" alt="Typing SVG" /></a>
  </p>
  
- <a href="https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f">
+ <a href="https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G">
  <img alt="𝕐𝔼𝕊𝕊𝔼ℝ 𝕄𝔻" height="300" src="https://telegra.ph/file/37882de26f9ffc60043ef.jpg".
 
 </h1> 
@@ -14,13 +14,13 @@ YESSER MD</b>, simple powerful bot </p>
 
 </p>
   <p align="center">
-<a href="https://github.com/fred1e?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Fred1e?label=Followers&style=social"></a>
-<a href="https://github.com/Fred1e/lucky_md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Fred1e/lucky_md?&style=social"></a>
-<a href="https://github.com/Fred1e/lucky_md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Fred1e/lucky_md?style=social"></a>
-<a href="https://github.com/Fred1e/lucky_md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Fred1e/lucky_md?label=Watching&style=social"></a>
+<a href="https://github.com/yassin994?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Fred1e?label=Followers&style=social"></a>
+<a href="https://github.com/yassin994/yesser_md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/yassin994/yesser_md?&style=social"></a>
+<a href="https://github.com/yassin994/yesser_md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/yassin994/yesser_md?style=social"></a>
+<a href="https://github.com/yassin994/yesser_md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/yassin994/yesser_md?label=Watching&style=social"></a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{Fred1e}/count.svg" alt="Lucky_md :: Visitor's Count"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{yassin994}/count.svg" alt="yesser_md :: Visitor's Count"/></p>
 
 </a>
   <div align="center">
@@ -30,7 +30,7 @@ YESSER MD</b>, simple powerful bot </p>
 ---
 
 <p align="center">
-  <a href="https://github.com/Fred1e/Lucky_md"><b>𝕐𝔼𝕊𝕊𝔼ℝ 𝕄𝔻</b></a> 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝘿𝙚𝙥𝙡𝙤𝙮 𝙊𝙣...
+  <a href="https://github.com/yassin994/yesser_md"><b>𝕐𝔼𝕊𝕊𝔼ℝ 𝕄𝔻</b></a> 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝘿𝙚𝙥𝙡𝙤𝙮 𝙊𝙣...
 </p>
 
 <p align="center">
