@@ -6,7 +6,7 @@
  </p>
  
  <a href="https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f">
- <img alt="𝕐𝔼𝕊𝕊𝔼ℝ 𝕄𝔻" height="300" src="https://telegra.ph/file/37882de26f9ffc60043ef.jpga
+ <img alt="𝕐𝔼𝕊𝕊𝔼ℝ 𝕄𝔻" height="300" src="https://telegra.ph/file/37882de26f9ffc60043ef.jpg".
 
 </h1> 
 <p align="center">ɪ ɪɴᴛʀᴏᴅᴜᴄᴇ <b>𝕃𝕌ℂ𝕂𝕐 𝕄𝔻 𝕍𝟟</b>, ᴀ ᴘᴏᴡᴇʀғᴜʟ sɪᴍᴘʟᴇ ᴡᴀᴛsᴀᴘᴘ ʙᴏᴛ </p>
