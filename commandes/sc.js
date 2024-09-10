@@ -40,23 +40,23 @@ const date = moment().format('DD/MM/YYYY');
 ❂━━━➳════⊷════➳━━━━❂
 
 *GITHUB LINK*
-> https://github.com/Fred1e
+> https://github.com/yassin994
 
-*TELEGRAM GROUP*
-> https://t.me/+u3zlb5y6OfxhOTdk
+*YouTube channel*
+>https://www.youtube.com/@Yesserboy92
 
 *FOR DEVELOPER T.ME*
-> https://t.me/freditech
+> https://wa.me.255621995482
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f 
+> https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G 
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
-> https://github.com/Fred1e/LUCKY_MD
+> https://github.com/yassin994/YESSER-MD
 ╭──━━━━═════════━━━━⦿
 ┃ ❂━━━════➳════━━━━❂
 ┃▓▒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-┃▓▒ *DEV* : *LUCKY BOT*
+┃▓▒ *DEV* : *yesser BOT*
 ┃ ❂━━━════➳════━━━━❂
 ⁠⁠⁠⁠╰──━━━━═════════━━━━⦿ 
   `;
@@ -64,7 +64,7 @@ const date = moment().format('DD/MM/YYYY');
 let menuMsg = `
      ╭──━━━━══⊷══━━━━⦿
      ┃ ❂━━━━━━━━━━━━❂
-     ┃▓ LUCKY MD V7 
+     ┃▓ yesser MD 
      ┃ ❂━━━━━━━━━━━━❂
      ╰──━━━━══⊷══━━━━⦿
 ❂━━━━═════⊷═════━━━━❂
