@@ -14,13 +14,13 @@ YESSER MD</b>, simple powerful bot </p>
 
 </p>
   <p align="center">
-<a href="https://github.com/yassin994?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Fred1e?label=Followers&style=social"></a>
-<a href="https://github.com/yassin994/yesser_md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/yassin994/yesser_md?&style=social"></a>
-<a href="https://github.com/yassin994/yesser_md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/yassin994/yesser_md?style=social"></a>
-<a href="https://github.com/yassin994/yesser_md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/yassin994/yesser_md?label=Watching&style=social"></a>
+<a href="https://github.com/yassin994?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/yassin994?label=Followers&style=social"></a>
+<a href="https://github.com/yassin994/YESSER-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/yassin994/YESSER-MD?&style=social"></a>
+<a href="https://github.com/yassin994/YESSER-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/yassin994/YESSER-MD?style=social"></a>
+<a href="https://github.com/yassin994/YESSER-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/yassin994/YESSER-MD?label=Watching&style=social"></a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{yassin994}/count.svg" alt="yesser_md :: Visitor's Count"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{yassin994}/count.svg" alt="YESSER-MD :: Visitor's Count"/></p>
 
 </a>
   <div align="center">
