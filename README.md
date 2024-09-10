@@ -120,11 +120,11 @@ The WhatsApp Bot YESSER MD is released under the [MIT License](https://opensourc
 
 - [**YESSIR TECH**](https://github.com/yassin994)
 - [**FREDIE TECH**](https://github.com/Fred1e)
-- [**TELEGRAM**](t.me/freditech)
-- [**Developers YT**](https://www.youtube.com/@freeonlinetvT1)
+- [**BONIPHACE TECH**](http://github.com/Boniphace30)
+- [**Developers YT**](https://www.youtube.com/@Yesserboy92)
 
 
-★im born to win🙏. ©
+★im born to win🏹. ©
      
 
 
