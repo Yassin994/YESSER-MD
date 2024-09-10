@@ -9,7 +9,8 @@
  <img alt="𝕐𝔼𝕊𝕊𝔼ℝ 𝕄𝔻" height="300" src="https://telegra.ph/file/37882de26f9ffc60043ef.jpg".
 
 </h1> 
-<p align="center">ɪ ɪɴᴛʀᴏᴅᴜᴄᴇ <b>𝕃𝕌ℂ𝕂𝕐 𝕄𝔻 𝕍𝟟</b>, ᴀ ᴘᴏᴡᴇʀғᴜʟ sɪᴍᴘʟᴇ ᴡᴀᴛsᴀᴘᴘ ʙᴏᴛ </p>
+<p align="center">ɪ ɪɴᴛʀᴏᴅᴜᴄᴇ <b>𝕃
+YESSER MD</b>, simple powerful bot </p>
 
 </p>
   <p align="center">
