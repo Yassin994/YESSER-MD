@@ -55,7 +55,7 @@ YESSER MD</b>, simple powerful bot </p>
 
 
 ## 𝟙.𝔽𝕀ℝ𝕊𝕋 𝕊𝕋𝔼ℙ 
-FORKO this repo YESSER-MD
+FORK this repo YESSER-MD
 
 
 <a href="https://github.com/yassin994/YESSER-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝔽𝕆ℝ𝕂 𝕋ℍ𝕀𝕊 ℝ𝔼ℙ𝕆-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
