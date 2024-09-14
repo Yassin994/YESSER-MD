@@ -88,7 +88,7 @@ else {
     
 await addOrUpdateDataInAlive(texte , tlien)
 
-repondre(' Hello👋 ,*I am yesser Md😎* _*Am Alive ALWAYS Just Like You😊*_ *🏹IM BORN TO WIN🏹* _ENJOY LIFE🤗_. ')
+repondre(' Hello👋🤠 ,*𝕀𝕄 ༆𝕐𝔼𝕊𝕊𝔼ℝ 𝕄𝔻༆ ✩𝔸𝕃𝕎𝔸𝕐𝕊 𝕀𝕄 𝔸𝕃𝕀𝕍𝔼🤓 ★𝒍𝒐𝒗𝒆 𝒊𝒕...★_. ')
 
 }
     });
