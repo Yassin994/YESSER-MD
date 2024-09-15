@@ -46,7 +46,7 @@ const date = moment().format('DD/MM/YYYY');
 >https://www.youtube.com/@Yesserboy92
 
 *FOR DEVELOPER T.ME*
-> https://wa.me.255621995482
+> https://wa.me/255621995482
 
 *WHATSAPP CHANNEL*
 > https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G 
@@ -64,7 +64,7 @@ const date = moment().format('DD/MM/YYYY');
 let menuMsg = `
      ╭──━━━━══⊷══━━━━⦿
      ┃ ❂━━━━━━━━━━━━❂
-     ┃▓ yesser MD 
+     ┃▓ yesser MD 😎
      ┃ ❂━━━━━━━━━━━━❂
      ╰──━━━━══⊷══━━━━⦿
 ❂━━━━═════⊷═════━━━━❂
