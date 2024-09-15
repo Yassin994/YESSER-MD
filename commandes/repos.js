@@ -32,15 +32,15 @@ this is* *YESSER_MD .*\n support our channel *by*,  https://whatsapp.com/channel
 ││ 📅 *RELEASE DATE:* ${releaseDate}
 ││🕐 *UPDATE ON:* ${repoInfo.lastUpdate}
 ││ 👨‍💻 *OWNER:* *YESSER tech*
-││ 💞 *THEME:* *YESSER BOY*
+││ 💞 *THEME:* *YESSER *
 ││ 🥰 *ENJOY TO USE YESSER MD *
 │╰────────────────────➳
 │╭──────────────────❍ 
 ││  ╭───────────────➳
-││  │ _*Made With yesser Tech😎
-||   |  TAFUTENI HERA WAJOMBA*_
+││  │ _*Made With yesser Tech*_
 ││  ╰───────────────➳
 │╰──────────────────❍ 
+..........new vision🖐️🤠
 ╰─────────────────────➳ 
  ❍━━━━━━━━━━━━━━━━━━❍`;
 
