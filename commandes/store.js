@@ -22,7 +22,7 @@ zokou({ nomCom: "cpu", categorie: "deploy" }, async (dest, zk, commandeOptions) 
     const date = moment.tz("asia/karachi").format("DD/MM/YYYY");
     console.log("date" + date);
     console.log("temps " + temps);
-    let menuMsg = " *𝐿𝑈𝐶𝛫𝑌 𝛭𝐷*\n\n";
+    let menuMsg = " *YESSER MD*\n\n";
     /*menuMsg+=`
     
     
@@ -156,7 +156,7 @@ _CPU Core(s) Usage (12 Core CPU)_
 - *idle* : 13.38%
 - *irq*  : 0.00%
 𝙽𝚘𝚝𝚎 : 𝚋𝚘𝚝 𝚊𝚛𝚎𝚗'𝚝 𝚏𝚘𝚛 𝚏𝚛𝚎𝚎
-𝚔𝚎𝚎𝚙 𝚞𝚜𝚒𝚗𝚐 YESSER 𝚖𝚍\n\n`;
+𝚔𝚎𝚎𝚙 𝚞𝚜𝚒𝚗𝚐 YESSER MD\n\n`;
     for (const cat in coms) {
         if (!emoji[cat]) {
             emoji[cat] = "";
@@ -166,7 +166,7 @@ _CPU Core(s) Usage (12 Core CPU)_
             menuMsg += "";
         }
     }
-    var link = "https://telegra.ph/file/37882de26f9ffc60043ef.jpg";
+    var link = "https://i.imgur.com/f015Bin.jpeg";
     try {
         zk.sendMessage(dest, { image: { url: link }, caption: menuMsg, footer: "©TKM INC" }, { quoted: ms });
     }
