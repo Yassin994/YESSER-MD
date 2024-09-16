@@ -39,8 +39,8 @@ let infoMsg =  `
 │
 │  _*Support channel by follow*_ ;https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G
 │  _*Join Our WhatsApp group*_ ;https://chat.whatsapp.com/KrseXOOYu2nKOkht0qonhY
-│  _*WhatsApp Contact As*_ ;https://wa.me.255621995482 
-│  _*WhatsApp Bot Fork And Star*_ ;https://github.com/yassin994/YESSER_MD
+│  _*WhatsApp Contact As*_ ;https://wa.me/255621995482 
+│  _*WhatsApp Bot Fork And Star*_ ;https://github.com/yassin994/YESSER-MD
 │  _*YOUTUBE channel *_:https://www.youtube.com/@Yesserboy92
 │  
 │  
@@ -70,7 +70,7 @@ let menuMsg = `
 ╭─━━━━━━━━──❍ 
 │ ╔════════════════════╗
 │ ║ ℝ𝕆𝕃𝔼." 1...........║
-│ ║𝙷𝙰𝙺𝚄𝙽𝙰 𝙺𝚄𝙼𝚄𝙰𝙼𝙸𝙽𝙸 𝙼𝚃𝚄║
+│ ║🤠🤠🤠🤠🤠🤠🤠🤠🤠🤠🤠║
 │ ║💀💀💀💀💀💀💀💀💀 ║
 │ ║🇾 🇪 🇸 🇸 🇪 🇷  ║
 │ ║ 🄽🄴🅆 🅅🄸🅂🄸🄾🄽  ║
@@ -81,7 +81,7 @@ let menuMsg = `
 │        *🅈🄴🅂🅂🄴🅁 🄼🄳*
 ╰─━━━━━━━━──❍ 
 
-> ©yesser projects
+> © project by yessertech
 
  `;
 
