@@ -1,6 +1,6 @@
 /*
-ZeroTwo-MD V1.0 
- Coded By VihangaYT
+YESSER-MD V1.0 
+ powerd by yesser tech
 
 Modified File : tiktok.js
 Modified Date : 8/23/2023
