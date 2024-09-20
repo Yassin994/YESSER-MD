@@ -132,3 +132,23 @@ The WhatsApp Bot YESSER MD is released under the [MIT License](https://opensourc
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=keep+using+YESSER+MD🤠" alt="Typing SVG" /></a>
 
+
+
+
+
+*KINGDOM*
+
+<table>
+  <tr>
+    <td>YESSER</td></td>
+    <td>𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑪𝒉𝒂𝒏𝒏𝒆𝒍</td>
+  </tr>
+  <tr>
+    <td><a href="https://wa.me/255716662453?"><img src="https://i.imgur.com/5cfyybs.jpeg" width="180"</td>
+    <td><a href="https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G"><img src="https://i.imgur.com/5cfyybs.jpeg" width="180"</td>
+  </tr>
+</table>
+
+</p>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
