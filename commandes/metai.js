@@ -79,7 +79,7 @@ const generateImage = async (messageId, sender, prompt, category) => {
       image: {
         url: imageUrl
       },
-      caption: "*powered by ALPHA-MD*"
+      caption: "*ROLE by YESSER tech*"
     });
   } catch (error) {
     console.error("Error generating image:", error);
