@@ -1,9 +1,9 @@
 {
-  "name":"BONIPHACE-MD",
-  "description":"Best whatsapp bot developed by Boniphace Tech",
+  "name":"YESSER-MD",
+  "description":"Best whatsapp bot created  by yesser Tech",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://files.catbox.moe/3vzjsl.jpeg",
-  "repository":"https://github.com/Galaxy680/BONIPHACE-MD-1",
+  "logo":"https://files.catbox.moe/ya4lg9.png",
+  "repository":"https://github.com/Yassin994/YESSER-MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"BONIPHACE-𝐌𝐃",
+      "value":"YESSER-MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://files.catbox.moe/ph6pml.jpeg",
+      "value":"https://files.catbox.moe/ya4lg9.png",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "BONIPHACE"
+    "value": "yessertech🤠"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255716661569,255767528416,255621995482"
+    "value": "255621995482,255716662453"
   },
     "WARN_COUNT":
   {
