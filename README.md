@@ -138,7 +138,6 @@ The WhatsApp Bot YESSER MD is released under the [MIT License](https://opensourc
 ## 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ𝕊 :
 
 - [**YESSIR TECH**](https://github.com/yassin994)
-- [**FREDIE TECH**](https://github.com/Fred1e)
 - [**BONIPHACE TECH**](http://github.com/Boniphace30)
 - [**Developers YT**](https://www.youtube.com/@Yesserboy92)
 
