@@ -106344,12 +106344,12 @@ const handleRepoCommand = async (m, Matrix, repoUrl) => {
               text: messageText,
             }),
             footer: proto.Message.InteractiveMessage.Footer.create({
-              text: '🌏𝐁𝐄𝐒𝐓 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓🌏\n\n𝐌𝐀𝐃𝐄 𝐁𝐘 YESSER-TECH',
+              text: '💫new wastapp bot💫 \n\created by YESSER-TECH',
             }),
             header: proto.Message.InteractiveMessage.Header.create({
               ...(await prepareWAMessageMedia({
                 image: {
-                  url: 'https://i.imgur.com/lfqWcEv.jpeg',
+                  url: 'https://files.catbox.moe/ctzwbg.jpeg',
                 },
               }, { upload: Matrix.waUploadToServer })),
               title: '',
@@ -106377,20 +106377,20 @@ const handleRepoCommand = async (m, Matrix, repoUrl) => {
                   name: 'cta_url',
                   buttonParamsJson: JSON.stringify({
                     display_text: "📂 REPO",
-                    url: 'https://github.com/YESSER3/HANS-MD-V1',
+                    url: 'https://github.com/Yassin994/YESSER-MD',
                   }),
                 },
                 {
                  name: 'cta_url',
                   buttonParamsJson: JSON.stringify({
-                    display_text: "📽 YESSER-TECH FOR MORE INFO",
-                    url: 'https://wa.me/255621995482?text=Hi+YESSERTECH+I+Need+Help',
+                    display_text: "📽 watching video FOR MORE INFO",
+                    url: 'https://www.youtube.com/@Yesserboy92',
                   }),
                 },
                 {
                   name: 'cta_url',
                   buttonParamsJson: JSON.stringify({
-                    display_text: "🛰 WHATSAPP CHANNEL",
+                    display_text: "🤠 WHATSAPP CHANNEL",
                     url: 'https://whatsapp.com/channel/0029VakA1mu35fM18opH1s30',
                   }),
                 },
@@ -106409,11 +106409,11 @@ const handleRepoCommand = async (m, Matrix, repoUrl) => {
     await Matrix.relayMessage(repoMessage.key.remoteJid, repoMessage.message, {
       messageId: repoMessage.key.id,
     });
-    await m.React('🇹🇿');
+    await m.React('🤠');
   } catch (error) {
     console.error('Error processing your request:', error);
     m.reply('Error processing your request.');
-    await m.React('🇹🇿');
+    await m.React('🤠');
   }
 };
 
