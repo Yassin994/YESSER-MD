@@ -10,7 +10,7 @@ const searchRepo = async (m, Matrix) => {
   const validCommands = ['repo', 'sc', 'script'];
 
   if (validCommands.includes(cmd)) {
-    const repoUrl = `https://api.github.com/repos/Yassin994/yesser`;
+    const repoUrl = `https://api.github.com/repos/Yassin994/YESSER-MD`;
     
     await handleRepoCommand(m, Matrix, repoUrl);
   }
@@ -78,7 +78,7 @@ const handleRepoCommand = async (m, Matrix, repoUrl) => {
                   name: 'cta_url',
                   buttonParamsJson: JSON.stringify({
                     display_text: 'Click Here To Fork',
-                    url: 'https://github.com/Yassin994/yesser/fork',
+                    url: 'https://github.com/Yassin994/YESSER-MD/fork',
                   }),
                 },
                 {
