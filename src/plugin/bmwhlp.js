@@ -106349,7 +106349,7 @@ const handleRepoCommand = async (m, Matrix, repoUrl) => {
             header: proto.Message.InteractiveMessage.Header.create({
               ...(await prepareWAMessageMedia({
                 image: {
-                  url: 'https://files.catbox.moe/ctzwbg.jpeg',
+                  url: 'https://files.catbox.moe/5xkz2y.jpeg',
                 },
               }, { upload: Matrix.waUploadToServer })),
               title: '',
@@ -106390,7 +106390,7 @@ const handleRepoCommand = async (m, Matrix, repoUrl) => {
                 {
                   name: 'cta_url',
                   buttonParamsJson: JSON.stringify({
-                    display_text: "🤠 WHATSAPP CHANNEL",
+                    display_text: "YESSER TECH WA,CHANEL",
                     url: 'https://whatsapp.com/channel/0029VakA1mu35fM18opH1s30',
                   }),
                 },
