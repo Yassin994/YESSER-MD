@@ -23,7 +23,7 @@ const alive = async (m, Matrix) => {
  *This commands will guide*
  *you how to use me*
 
-  *BOT INFO*
+  *YESSER COMMAND*
   
  ${prefix}𝙿𝚒𝚗𝚐
  ${prefix}𝙰𝚕𝚒𝚟𝚎
