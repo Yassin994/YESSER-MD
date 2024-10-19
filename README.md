@@ -105,9 +105,8 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 
 ##
 
-## 🖐️*JUST STOP 👎 MEET WITH*
-_________YESSER MD xxl___________
-      *BOTTOM STYLE*
+## 🖐️*FOR BOTTOM STYlE TAP HERE-
+      *the pairing code for mow just use bmw code soon we will change*
 
      👉💫 Fork the repo
     <br>
