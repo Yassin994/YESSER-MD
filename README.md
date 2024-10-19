@@ -105,31 +105,19 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 
 ##
 
-
-
-
-
-
 ## 🖐️*JUST STOP 👎 MEET WITH*
-_________YESSER MD___________
-      **BOTTOM STYLE**
+_________YESSER MD xxl___________
+      *BOTTOM STYLE*
 
-
-
-
-     1. Fork the repo
+     👉💫 Fork the repo
     <br>
 <a href='https://github.com/Yassin994/YESSER-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=yellow&labelColor=pink&color=yellow'/></a>
 
 
-2. Get session id by (SCANNING QR1)
+👉💞 Get session id 💞
     <br>
 <a href='https://ibrahim-adam-c5b1ef481932.herokuapp.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=yellow'/></a>
 
-
-2. Get session id by (PAIRING CODE2)
-    <br>
-<a href='https://ibrahim-adam-c5b1ef481932.herokuapp.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=yellow'/></a>
 
     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a> 
@@ -145,7 +133,7 @@ _________YESSER MD___________
 
 ℂ𝕆ℕ𝕋𝔸ℂ𝕋 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ 𝕆ℕ 𝕎ℍ𝔸𝕋𝕊𝔸ℙℙ 
 
-𝕎𝔸𝕋𝕊𝔸ℙℙ 𝕄𝔼
+𝕎𝔸𝕋𝕊𝔸ℙℙ 𝕄𝔼💯if u need support
 <a href="https://wa.me/255621995482?text=Hi+YESSERTECH+I+Need+Help" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="255621995482" height="60" width="70" /></a>
 
 
