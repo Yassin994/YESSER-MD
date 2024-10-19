@@ -2,7 +2,7 @@
 <p align="center">🇾 🇪 🇸 🇪  🇷  🇲 🇩 
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=100&size=20&duration=2000&pause=200&random=false&width=835&lines=+MY+NAME+ IS+YESSER+MD+BOT+CREATED+BY+YESSER+tech+SON+Fork+Me+Please" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=100&size=20&duration=2000&pause=200&random=false&width=635&lines=+MY+NAME+ IS+YESSER+MD+BOT+CREATED+BY+YESSER+tech+SON+Fork+Me+Please" alt="Typing SVG" /></a>
  </p>
  
  <a href="https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G">
