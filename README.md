@@ -106,7 +106,6 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 ##
 
 ## 🖐️*FOR BOTTOM MODE💫*
-       _JUST USE BMW CODE THE REALLY CODE THEIR IN PROCESS sOON will update 💯_
      👉💫 Fork the repo
     <br>
 <a href='https://github.com/Yassin994/YESSER-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=yellow&labelColor=pink&color=yellow'/></a>
@@ -114,7 +113,7 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 
 👉💞 Get session id 💞
     <br>
-<a href='https://ibrahim-adam-c5b1ef481932.herokuapp.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=yellow'/></a>
+<a href='https://yesset-md-099be347ecc5.herokuapp.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=yellow'/></a>
 
 
     
