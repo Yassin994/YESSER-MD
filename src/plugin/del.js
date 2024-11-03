@@ -12,7 +12,7 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
 
     if (validCommands.includes(cmd)) {
       if (!isCreator) {
-        return m.reply("*📛 THIS IS AN OWNER COMMAND*");
+        return m.reply("*💀 THIS IS AN OWNER COMMAND*");
       }
 
       if (!m.quoted) {
