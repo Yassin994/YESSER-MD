@@ -21,7 +21,7 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
     if (!botAdmin) return m.reply("*😊 BOT MUST BE AN ADMIN TO USE THIS COMMAND*");
     if (!senderAdmin) return m.reply("*🙃 YOU MUST BE AN ADMIN TO USE THIS COMMAND*");
     // Extract the message to be sent
-    let message = `乂 *YESSER XXL_MD* 乂\n\n*Message:* ${m.body.slice(prefix.length + cmd.length).trim() || 'no message'}\n\n`;
+    let message = ` *YESSER MD\n\n*Message:* ${m.body.slice(prefix.length + cmd.length).trim() || 'no message'}\n\n`;
         
 
 
