@@ -17,7 +17,7 @@ const runtime = function (seconds) {
  } 
 
 
-zokou({ nomCom: 'vcf',
+zokou({ nomCom: 'vcf1',
     desc: 'To check runtime',
     Categorie: 'General',
     reaction: '📄', 
@@ -28,7 +28,7 @@ zokou({ nomCom: 'vcf',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_please wait..._*`) 
+                 await repondre(`*_sorry just use 👉 vcf10 to get all contact_*`) 
 
    
 
@@ -40,7 +40,7 @@ zokou({ nomCom: 'vcf',
 zokou({ nomCom: 'getallmembers',
     desc: 'To check runtime',
     Categorie: 'General',
-    reaction: '😎', 
+    reaction: '💀', 
     fromMe: 'true', 
 
 
@@ -61,7 +61,7 @@ zokou({ nomCom: 'getallmembers',
 zokou({ nomCom: 'channel',
     desc: 'To check runtime',
     Categorie: 'My Contact',
-    reaction: '🐞', 
+    reaction: '🎁', 
     fromMe: 'true', 
 
 
@@ -69,7 +69,7 @@ zokou({ nomCom: 'channel',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G`) 
+                 await repondre(`Support Here My Owner By Follow This Channel Please :https://whatsapp.com/channel/0029VakA1mu35fM18opH1s30`) 
 
    
 
@@ -78,10 +78,10 @@ zokou({ nomCom: 'channel',
 );
 
 
-zokou({ nomCom: 'yessertgc',
+zokou({ nomCom: 'group1',
     desc: 'To check runtime',
     Categorie: 'My Contact',
-    reaction: '🤓', 
+    reaction: '😂', 
     fromMe: 'true', 
 
 
@@ -89,7 +89,7 @@ zokou({ nomCom: 'yessertgc',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*Tap Here To follow 😂CHEKA TU 😂 channeel * https://whatsapp.com/channel/0029VafooOgAjPXNXqBpW01X`) 
+                 await repondre(`*Tap Here To Join YESSER MD Chatroom* https://chat.whatsapp.com/DFmm1OBboewBk9kEDBrfNv`) 
 
    
 
@@ -109,7 +109,7 @@ zokou({ nomCom: 'update',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_YESSER MD is running on its latest vision_*`) 
+                 await repondre(`*_YESSER MD🎁is running on its latest vision_*`) 
 
    
 
@@ -129,7 +129,7 @@ zokou({ nomCom: 'vision',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_YESSER MD_*`) 
+                 await repondre(`*_YESSER  MD_*`) 
 
    
 
@@ -139,10 +139,10 @@ zokou({ nomCom: 'vision',
 
 
   
-zokou({ nomCom: 'yesserwagc',
+zokou({ nomCom: 'cheka',
     desc: 'To check runtime',
     Categorie: 'My Contact',
-    reaction: '♻️', 
+    reaction: '😂', 
     fromMe: 'true', 
 
 
@@ -150,7 +150,7 @@ zokou({ nomCom: 'yesserwagc',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*Tap To Join BONIPHACE Md WhatsApp Chartroom Group* https://chat.whatsapp.com/KrseXOOYu2nKOkht0qonhY`) 
+                 await repondre(`*_tap the link below to join CHEKA CHANNEL= https://whatsapp.com/channel/0029VafooOgAjPXNXqBpW01X_*`) 
 
    
 
@@ -162,7 +162,7 @@ zokou({ nomCom: 'yesserwagc',
 zokou({ nomCom: 'hack2',
     desc: 'To check runtime',
     Categorie: 'My Contact',
-    reaction: '🐅', 
+    reaction: '🤠', 
     fromMe: 'true', 
 
 
@@ -189,10 +189,47 @@ zokou({ nomCom: 'hack2',
     "SUCCESSFULLY SENT DATA AND Connection disconnected",
     "BACKLOGS CLEARED",
     "POWERED BY YESSER MD",
-    "By yesser Tech`) 
+    "By YESSER TECH`) 
 
    
 
 
   }
 )
+
+
+
+
+zokou({ nomCom: 'problem',
+    desc: 'To check runtime',
+    Categorie: 'General',
+    reaction: '🔎', 
+    fromMe: 'true', 
+
+
+  },
+  async (dest, zk, commandeOptions) => {
+    const { ms, arg, repondre } = commandeOptions;
+
+                 await repondre(`*_┏━━━━━━━━━━━━━━
+┃YESSER-MD 
+| 
+┃   
+┗━━━━━━━━━━━━━━━
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+❶ || Creator = 𖥘 YESSER TECH 𖥘
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VakA1mu35fM18opH1s30
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Please Follow My YouTube Channel
+🌛 https://www.youtube.com/@Yesserboy92
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+©*2024-2099 YESSER TECH_*`) 
+
+   
+
+
+  }
+);
+
+
