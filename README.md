@@ -115,6 +115,32 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 
 
 
+
+
+#### DEPLOY TO PANEL 
+
+1. If You don't have a account on panel Create a account.
+    <br>
+<a href='https://bot-hosting.net/?aff=1086839354611212288' target="_blank"><img alt='Render' src='https://img.shields.io/badge/CREATE-h?color=Pink&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
+
+
+2. Now Deploy
+    <br>
+<a href='https://bot-hosting.net/?aff=1086839354611212288' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
+
+
+
+#### _IF YOU FAILED 🖐️🤠IM HERE
+
+
+
+#### <a href="https://github.com/yassin994/YESSER-MD/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILE-HERE-red" alt="Rainhost Files" width="150"></a>
+
+☝️💀 here we go.................!
+
+
+
+
 ℂ𝕆ℕ𝕋𝔸ℂ𝕋 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ 𝕆ℕ 𝕎ℍ𝔸𝕋𝕊𝔸ℙℙ 
 
 𝕎𝔸𝕋𝕊𝔸ℙℙ 𝕄𝔼💯if u need support
