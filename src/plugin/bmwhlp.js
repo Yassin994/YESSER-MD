@@ -106349,7 +106349,7 @@ const handleRepoCommand = async (m, Matrix, repoUrl) => {
             header: proto.Message.InteractiveMessage.Header.create({
               ...(await prepareWAMessageMedia({
                 image: {
-                  url: 'https://files.catbox.moe/5xkz2y.jpeg',
+                  url: 'https://files.catbox.moe/0anppc.jpeg',
                 },
               }, { upload: Matrix.waUploadToServer })),
               title: '',
@@ -106383,7 +106383,7 @@ const handleRepoCommand = async (m, Matrix, repoUrl) => {
                 {
                  name: 'cta_url',
                   buttonParamsJson: JSON.stringify({
-                    display_text: "📽 watching video FOR MORE INFO",
+                    display_text: "📽HOW TO DEPLOY",
                     url: 'https://www.youtube.com/@Yesserboy92',
                   }),
                 },
