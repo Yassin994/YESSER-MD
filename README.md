@@ -39,14 +39,14 @@ YESSER MD</b>, simple powerful bot </p>
 
 
 
-/></a>
 
 
 
-## ℍ𝕆𝕎 𝕋𝕆 𝔻𝔼ℙ𝕃𝕆𝕐 𝕐𝔼𝕊𝕊𝔼ℝ 𝕄𝔻 
+
+## HOW TO DEPLOY YESSER MD 🤠 
 
 
-## 𝟙.𝔽𝕀ℝ𝕊𝕋 𝕊𝕋𝔼ℙ 
+## 1. FIRST STEP 
 FORK this repo YESSER-MD
 
 
@@ -54,7 +54,8 @@ FORK this repo YESSER-MD
 
 sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®️
 
-## 𝟚.𝕊𝔼ℂ𝕆ℕ𝔻 𝕊𝕋𝔼ℙ 
+## 2.SECOND STEP
+ *CONNECT BY PAIRING CODE THROUGH BOTH STYLE*
 
 
 ##*YESSER MD NORMAL BOT*##
@@ -88,7 +89,7 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 
 
 
-## 𝟛.𝕋ℍ𝕀ℝ𝔻 𝕊𝕋𝔼ℙ 
+## 3. LAST STEP HERE WE GO 🤠
 **1. ɪғ ʏᴏᴜ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ ʜᴇʀᴏᴋᴜ**
 💯 ### 🎁 DEPLOY ON HEROUK ##
 <a href="https://signup.heroku.com">
@@ -130,20 +131,20 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 
 
 
-#### _IF YOU FAILED 🖐️🤠IM HERE
+*guys that main zip is for panel deployers but isn't finished yet so just cool soon we will fix it keep turned...* 💔
 
 
 
 #### <a href="https://github.com/yassin994/YESSER-MD/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILE-HERE-red" alt="Rainhost Files" width="150"></a>
 
-☝️💀 here we go.................!
 
 
 
 
-ℂ𝕆ℕ𝕋𝔸ℂ𝕋 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ 𝕆ℕ 𝕎ℍ𝔸𝕋𝕊𝔸ℙℙ 
 
-𝕎𝔸𝕋𝕊𝔸ℙℙ 𝕄𝔼💯if u need support
+## DO YOU NEED SUPPORT? 🤠yes im here to help you 24hrs. 
+
+🎁 owner on wastapp 🤙
 <a href="https://wa.me/255621995482?text=Hi+YESSERTECH+I+Need+Help" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="255621995482" height="60" width="70" /></a>
 
 
@@ -153,7 +154,7 @@ href="https://chat.whatsapp.com/DFmm1OBboewBk9kEDBrfNv" target="blank"><img
  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="yessertech" height="60" width="70" /></a>
 
 
-𝕐𝕆𝕌𝕋𝕌𝔹𝔼 ℂℍ𝔸ℕℕ𝔼𝕃
+😭 FOLLOW MY YOUTUBE CHANNEL
 <a href="https://www.youtube.com/@Yesserboy92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yessertech" height="60" width="70" /></a>
 
 
@@ -164,7 +165,7 @@ The WhatsApp Bot YESSER MD is released under the [MIT License](https://opensourc
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•Role+number-one; don't-trust+any one+🖐️🤠;DEVELOPED+BY+YESSER+TECH;RELEASED+DATE+22%2F6%2F2024." alt="Typing SVG" /></a>
 
 
-🌟 𝕋ℍ𝔸ℕ𝕂 𝕐𝕆𝕌 𝔽𝕆ℝ ℂℍ𝕆𝕆𝕊𝕀ℕ𝔾 YESSER🍀_MD 🌟
+🌟 *thanks for using YESSER🤠_MD*
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+YESSER- MD+MADE+IN+TANZANIA+🇹🇿♥️" alt="Typing SVG" /></a>
 
@@ -200,3 +201,33 @@ The WhatsApp Bot YESSER MD is released under the [MIT License](https://opensourc
 </p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+
+
+
+
+
+*`🎁 available services🎁
+👉i creat herouk acc for 4k
+👉 i deploy bots for 3k
+👉i made owners bost for 25k*
+
+
+## like that one 🎁herouk card🎁##
+......... YESSER CARD............
+
+🎁 *Card* 4403530005953162
+
+💔 *Cvv* 808
+❤️. *Exp* 10/27
+
+💀 *name* yesser tech
+💀 *country* Tanzania
+
+💀. *city* Dar es salaam
+................................................
+
+
+
+❤️ one love .................
