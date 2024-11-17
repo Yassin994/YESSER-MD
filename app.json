@@ -8,7 +8,7 @@
   "stack":"heroku-24",
   "env":{
       "SESSION_ID": {
-      "description": "Paste here session id that you have scanned",
+      "description": "Bmwmd$Y3JrqiUF",
       "required": true,
       "value": ""
     },
