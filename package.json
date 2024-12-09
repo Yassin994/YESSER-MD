@@ -1,17 +1,16 @@
-
 {
   "name": "YESSER-MD",
   "version": "10.8.1",
-  "description": "YESSER-MD latest multi device whatsapp bot",
+  "description": "YESSER-MD latest multi-device WhatsApp bot",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name BMW-MD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name YESSER-MD",
     "stop": "pm2 stop YESSER-MD",
     "restart": "pm2 restart YESSER-MD"
   },
   "keywords": ["YESSER-md", "whatsapp-bot", "whatsapp md bot"],
-  "author": "yesser tech",
+  "author": "Yesser Tech",
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
@@ -40,7 +39,6 @@
     "jsqr": "^1.4.0",
     "libphonenumber": "^0.0.10",
     "moment-timezone": "^0.5.45",
-    "nayan-media-downloader": "^2.4.7",
     "node-cache": "^5.1.2",
     "node-cron": "^3.0.3",
     "node-fetch": "^3.3.2",
@@ -63,4 +61,4 @@
     "yt-search": "^2.11.0",
     "ytdl-core": "^4.11.2"
   }
-}
+  }￼Enter
