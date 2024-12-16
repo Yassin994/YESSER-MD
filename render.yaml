@@ -1,0 +1,9 @@
+services:
+ - type: worker
+   name: zax-md-demo
+   env: docker
+   plan: starter
+   dockerfilePath: ./Dockerfile
+   envVars:
+    - key: SESSION_ID
+      value: Session
