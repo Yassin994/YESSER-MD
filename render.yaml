@@ -1,6 +1,6 @@
 services:
  - type: worker
-   name: zax-md-demo
+   name: yesser-md-demo
    env: docker
    plan: starter
    dockerfilePath: ./Dockerfile
