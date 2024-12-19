@@ -1,0 +1,12 @@
+
+node_modules
+./lib/bot_.json
+./lib/sck.json
+./lib/sck1.json
+./lib/Session
+./lib/store.json
+package-lock.json
+lib/bot_.json
+lib/sck.json
+lib/sck1.json
+lib/store.json
