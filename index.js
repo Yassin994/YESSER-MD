@@ -3,7 +3,7 @@ const bot = require(__dirname + '/lib/runner')
 const { VERSION } = require(__dirname + '/config')
 
 const start = async () => {
-    Debug.info(`Zax ${VERSION}`)
+    Debug.info(`yesser ${VERSION}`)
   try {
     await bot.init()
     bot.logger.info('⏳ Starting App!')
