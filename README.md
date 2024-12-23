@@ -1,4 +1,0 @@
-# Ibrahim bottom code
-
-
-
