@@ -1,5 +1,4 @@
-
-                                             💚𝗬𝗘𝗦𝗦𝗘𝗥 𝗠𝗗💚
+        💚𝗬𝗘𝗦𝗦𝗘𝗥 𝗠𝗗💚
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR YOUR +SUPPORT-DONT; FORGET+TO+FORK+MYrepo;CREATED+BY+YESSER TECH;RELEASED+25.9.2024" alt="Typing SVG" /></a>
 
