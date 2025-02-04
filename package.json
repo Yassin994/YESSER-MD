@@ -1,12 +1,12 @@
 {
-  "name": "YESSER-MD",
+  "name": "CRISS VEVO-MD",
   "version": "1.0.0",
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name YESSER-MD",
-    "stop": "pm2 stop YESSER-MD",
-    "restart": "pm2 restart YESSER-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name CRISS VEVO-MD",
+    "stop": "pm2 stop CRISS VEVO-MD",
+    "restart": "pm2 restart CRISS VEVO-MD"
   },
   "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
