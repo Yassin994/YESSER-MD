@@ -1,17 +1,17 @@
         💚𝗬𝗘𝗦𝗦𝗘𝗥 𝗠𝗗💚
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR YOUR +SUPPORT-DONT; FORGET+TO+FORK+MYrepo;CREATED+BY+YESSER TECH;RELEASED+25.9.2024" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR YOUR +SUPPORT-DONT; FORGET+TO+FORK+MYrepo;CREATED+BY+CRISS VEVO;RELEASED+25.9.2024" alt="Typing SVG" /></a>
 
 
 
 </p>
  
- <a href="https://whatsapp.com/channel/0029VakA1mu35fM18opH1s30">
- <img alt="YESSER " height="300" src="https://files.catbox.moe/9it5tk.jpeg".
+ <a href="https://whatsapp.com/channel/0029Vb0ZQfqBadmazwLVOs19">
+ <img alt="CRISS VEVO " height="300" src="https://files.catbox.moe/9it5tk.jpeg".
 
 </h1> 
 <p align="center">⚠️<b>𝕃
-YESSER MD</b>, ⚠️ </p>
+CRISS VEVO MD</b>, ⚠️ </p>
 
 </p>
   <p align="center">
@@ -32,13 +32,13 @@ YESSER MD</b>, ⚠️ </p>
 <br>
 
 2. (A)👇 Get Session ID Here for normal bot
-[![Get Session ID Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://yesser.onrender.com) 
+[![Get Session ID Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://criss-vevo.onrender.com) 
 
  
  2. (B) 👁️ get session id here for bottom bot
  
  
-[![Get Session ID Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://yesser-scanner-8309ae116f64.herokuapp.com/) 
+[![Get Session ID Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://criss-vevo-scanner-8309ae116f64.herokuapp.com/) 
 
  
  
