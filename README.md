@@ -66,34 +66,75 @@ YESSER MD</b>, ⚠️ </p>
 <a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
 
 
+   **followup following wats how to deploy on render**
 
-7. If You don't have a account in koyeb. Create a account.
+
+
+   - **Render Deployment:**
+1. If you don’t have a **Render** account, click [**here**](https://dashboard.render.com) to create one.
+2. Create a new web service.  
+3. Choose **Public Git Repository**.  
+4. In the field, enter ```https://github.com/Yassin994/YESSER-MD```.
+5. Click **Connect**.  
+6. Select the **Free Plan** if you don’t want to pay.
+7. In the **Environment Variable** section, click **Add from .env** and copy the content below:
+
+```env
+PREFIX=.
+AUTO_READ_STATUS=yes
+AUTO_DOWNLOAD_STATUS=yes
+PM_PERMIT=no
+BOT_NAME=YESSER-MD
+BOT_MENU_LINKS=https://files.catbox.moe/9e7vmv.jpg
+PUBLIC_MODE=yes
+HEROKU=no
+OWNER_NAME=yessertech 
+NUMERO_OWNER=255621995482
+WARN_COUNT=3
+STARTING_BOT_MESSAGE=yes
+PRESENCE=1
+PM_CHATBOT=no
+SESSION_ID=zokk
+ANTI_VIEW_ONCE="yes
+ANTI_COMMAND_SPAM=yes
+ANTI_DELETE_MESSAGE=yes
+AUTO_REACT_MESSAGE=no
+```
+
+
+
+   **ENJOY YOUR DAY**
+
+
+
+
+8. If You don't have a account in koyeb. Create a account.
     <br>
 <a href='https://app.koyeb.com/auth/signup' target="_blank"><img alt='koyeb' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=koyeb'/></a>
 
 
-8. Now Deploy on koyeb
+9. Now Deploy on koyeb
     <br>
 <a href='https://app.koyeb.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
 
 
 
 
-9. If You don't have a account in Railway. Create a account.
+10. If You don't have a account in Railway. Create a account.
     <br>
 <a href='https://railway.app' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=railway'/>
 
-10. Now Deploy railway
+11. Now Deploy railway
     <br>
 <a href='https://railway.app' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=railway'/></a>
 
 
-11. If You don't have a account in Replit. Create a account.
+12. If You don't have a account in Replit. Create a account.
     <br>
 <a href='https://www.replit.com/' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=replit'/></a>
    <br>
    
-12. Now Deploy on replit
+13. Now Deploy on replit
     <br>
 <a href='https://replit.com/github/Yassin994/YESSER-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-IMPORT-black?style=for-the-badge&logo=replit'/></a>
 
