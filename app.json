@@ -1,0 +1,120 @@
+{
+  "name": "YESSER-MD-V1",
+  "description": "WhatsApp bot developed by djalega++",
+  "keywords": [
+    "bot",
+    "node",
+    "baileys",
+    "whatsapp"
+  ],
+  "logo": "https://files.catbox.moe/em4h5i.jpg",
+  "repository": "https://github.com/kinghanstz/YESSER-MD-V1",
+  "succes_url": "/",
+  "stack": "container",
+  "env": {
+    "PREFIX": {
+      "description": "choose your bot prefix",
+      "value": "#",
+      "required": true
+    },
+    "AUTO_READ_STATUS": {
+      "description": "Your contact status will be read automatically (type yes to activate or no to deactivate; don't write in capital letters)",
+      "value": "yes",
+      "required": false
+    },
+    "AUTO_DOWNLOAD_STATUS": {
+      "description": "Your contact status will be downloaded automatically and sent to you (type yes to activate or no to deactivate; don't write in capital letters)",
+      "value": "yes",
+      "required": false
+    },
+    "PM_PERMIT": {
+      "description": "Other users can't use your bot in private messages (type yes to activate or no to deactivate; don't write in capital letters)",
+      "value": "no",
+      "required": false
+    },
+    "BOT_NAME": {
+      "description": "put a name for your bot",
+      "value": "Zokou-MD",
+      "required": false
+    },
+    "BOT_MENU_LINKS": {
+      "description": "add one or many links for your bot menu; e.g., url1,url2,url3.....",
+      "value": "https://i.pinimg.com/736x/0a/70/6f/0a706f90d6a1fb39919aedfbb7fdd8d3.jpg",
+      "required": false
+    },
+    "PUBLIC_MODE": {
+      "description": "type yes to put your bot in public mode or no to put it in private mode",
+      "value": "yes",
+      "required": false
+    },
+    "HEROKU_APY_KEY": {
+      "description": "insert your Heroku API key (this is optional)",
+      "required": false
+    },
+    "HEROKU_APP_NAME": {
+      "description": "insert your Heroku APP NAME (this is optional)",
+      "required": false
+    },
+    "SESSION_ID": {
+      "description": "put your session ID, the code you receive after scanning the QR code",
+      "value": "",
+      "required": true
+    },
+    "OWNER_NAME": {
+      "description": "Your Name",
+      "required": false,
+      "value": "Djalega++"
+    },
+    "NUMERO_OWNER": {
+      "description": "Your number, don't put '+' and include your area code (example for Togo '255')",
+      "required": false,
+      "value": "255756530143"
+    },
+    "WARN_COUNT": {
+      "description": "this is the limit of warnings for warning commands",
+      "required": false,
+      "value": "3"
+    },
+    "STARTING_BOT_MESSAGE": {
+      "description": "if you don't want a starting-bot-message put no, otherwise put yes",
+      "required": true,
+      "value": "yes"
+    },
+    "PRESENCE": {
+      "description": "Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
+      "value": "",
+      "required": false
+    },
+    "PM_CHATBOT": {
+      "description": "Put yes if you want the bot to automatically respond to messages in private",
+      "required": false,
+      "value": "no"
+    },
+    "ANTI_VIEW_ONCE": {
+      "description": "Put yes if you want to receive all view once content in private messages",
+      "required": false,
+      "value": "no"
+    },
+    "ANTI_COMMAND_SPAM": {
+      "description": "activate a cooldown of 10 seconds for every user after a command to avoid spamming unless owner and mods",
+      "required": false,
+      "value": "no"
+    },
+    "ANTI_DELETE_MESSAGE": {
+      "description": "Put yes if you want messages deleted by other users to be sent to you in private messages",
+      "required": false,
+      "value": "no"
+    },
+    "AUTO_REACT_MESSAGE": {
+      "description": "Put yes if you want messages to be automatically reacted to",
+      "required": false,
+      "value": "no"
+    }
+  },
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "standard-2x"
+    }
+  }
+}
