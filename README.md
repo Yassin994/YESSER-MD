@@ -66,7 +66,7 @@ YESSER MD</b>, ⚠️ </p>
 <a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
 
 
-   **followup following wats how to deploy on render**
+   **followup following ways how to deploy on render**
 
 
 
